@@ -1,21 +1,21 @@
 # Product Design Library
 
 ## Product Design
-https://medium.com/the-year-of-the-looking-glass/design-the-beginning-b8e61081ce42
-http://robertlenne.com/requiredreading/
-http://blog.capwatkins.com/scaling-design
-https://medium.com/@rjs/ui-and-capability-f713c9828c02?s=18-ui-and-capability
-https://medium.com/design-explosion/design-explosions-mapping-on-ios-ad4ec6ba5c59
 
-https://vimeo.com/76639385
+[Design the Beginning](https://medium.com/the-year-of-the-looking-glass/design-the-beginning-b8e61081ce42) – Julie Zhuo
 
-http://blog.capwatkins.com/my-design-process-part-1
-http://blog.capwatkins.com/my-design-process-part-2
-http://blog.capwatkins.com/my-design-process-part-3
+[Scaling Design](http://blog.capwatkins.com/scaling-design) – Cap Watkins
 
-http://frankchimero.com/talks/the-webs-grain/transcript/
+[UI and Capability](https://medium.com/@rjs/ui-and-capability-f713c9828c02?s=18-ui-and-capability) – Ryan Singer
 
-https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482
+[Design Explosions: Mapping on iOS](https://medium.com/design-explosion/design-explosions-mapping-on-ios-ad4ec6ba5c59)
+
+[Etsys Product Design Principles (video)](https://vimeo.com/76639385) – Cap Watkins
+
+[My Design Process: Part 1](http://blog.capwatkins.com/my-design-process-part-1), [Part 2](http://blog.capwatkins.com/my-design-process-part-2), [Part 3](http://blog.capwatkins.com/my-design-process-part-3) – Cap Watkins
+
+[The Webs Grain](http://frankchimero.com/talks/the-webs-grain/transcript/) – Frank Chimero
+
 
 ## Testing
 http://alistapart.com/article/sharing-our-work-testing-feedback-in-design
@@ -43,6 +43,7 @@ https://medium.com/@joshpuckett/modern-design-tools-adaptive-layouts-e236070856e
 http://sketchtoolbox.com/	
 https://medium.com/design-with-sketch/design-with-sketch-92608a88c103
 https://medium.com/@lorenzvs/saving-time-in-sketch-7042142c8a8e
+https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482
 
 ## CSS
 https://gist.github.com/bobbygrace/9e961e8982f42eb91b80
