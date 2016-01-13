@@ -16,6 +16,8 @@
 
 [The Webs Grain](http://frankchimero.com/talks/the-webs-grain/transcript/) – Frank Chimero
 
+## Critique & Feedback
+[Four Things Working at Facebook Has Taught Me About Design Critique](https://medium.com/@tannerc/critique-is-an-important-part-of-any-design-process-whether-you-work-as-part-of-a-team-or-solo-ef3dcb299ce3#.mctdlo18o) – Tanner Christensen
 
 ## Testing
 
