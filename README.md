@@ -107,7 +107,9 @@ http://nicolefenton.com/interface-writing/
 
 http://nicolefenton.com/writing-for-beginners/
 
-## Stories / User Centered
+## Process
+
+[Designing Features Using Job Stories](https://blog.intercom.io/using-job-stories-design-features-ui-ux/) – Alan Klement
 
 http://www.fastcompany.com/3002813/how-snow-white-helped-airbnbs-mobile-mission
 
