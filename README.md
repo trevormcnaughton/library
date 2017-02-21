@@ -1,4 +1,4 @@
-# Product Design Library
+# Library
 
 ## Product Design
 
