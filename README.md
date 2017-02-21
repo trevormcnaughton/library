@@ -53,6 +53,12 @@ http://blog.capwatkins.com/letting-go-as-a-manager
 
 https://speakerdeck.com/lauraxt/minimum-viable-bureaucracy-june-2014-edition
 
+## Culture
+
+https://open.buffer.com/creating-values/
+
+https://www.slideshare.net/HubSpot/the-hubspot-culture-code-creating-a-company-we-love?ref=https://open.buffer.com/creating-values/
+
 ## Tools
 
 https://medium.com/@joshpuckett/modern-design-tools-adaptive-layouts-e236070856e3
