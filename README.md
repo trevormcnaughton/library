@@ -132,3 +132,7 @@ http://www.calltoidea.com/
 ## Launching
 
 http://dancounsell.com/articles/six-figure-app-launch
+
+## Game Dev / Design
+
+[Deciding what to make](https://www.youtube.com/watch?v=PYpHbuF08Mk)
