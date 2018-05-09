@@ -71,7 +71,9 @@ https://medium.com/@lorenzvs/saving-time-in-sketch-7042142c8a8e
 
 https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482
 
-## CSS
+## Frontend
+
+[Delivering Octicons with SVG[(https://blog.github.com/2016-02-22-delivering-octicons-with-svg/)
 
 https://gist.github.com/bobbygrace/9e961e8982f42eb91b80
 
