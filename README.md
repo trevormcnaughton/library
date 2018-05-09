@@ -73,7 +73,7 @@ https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e
 
 ## Frontend
 
-[Delivering Octicons with SVG[(https://blog.github.com/2016-02-22-delivering-octicons-with-svg/)
+[Delivering Octicons with SVG](https://blog.github.com/2016-02-22-delivering-octicons-with-svg/)
 
 https://gist.github.com/bobbygrace/9e961e8982f42eb91b80
 
